@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Dart, Flutter, C# and MsSql.
-- 🌱 I’m currently learning Flutter and C#.
+- 🌱 I’m currently learning Asp .Net Mvc.
 - 🤔 I’m looking for help with looking for a job.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mehmet-demir-968707215/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@MehmetDemir-blue?style=flat&logo=linkedin"></a>
 - 😄 Pronouns: M
