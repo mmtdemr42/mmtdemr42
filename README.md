@@ -1,8 +1,7 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
-- 🔭 I’m currently working on Dart, Flutter,  Html, Css, Bootstrap, C# and MsSql.
-- 🌱 I’m currently learning Asp .Net Mvc and Entity Framework.
+- 🔭 I’m currently working on Java, Spring Boot, Spring MVC, MySql, Javascript, React, NextJS, Html, Css, Bootstrap, C# and MsSql.
 - 🤔 I’m looking for help with looking for a job.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mehmet-demir-968707215/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@MehmetDemir-blue?style=flat&logo=linkedin"></a>
 - 😄 Pronouns: M
