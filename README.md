@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Java, Spring Boot, Spring MVC, MySql, Javascript, React, NextJS, Html, Css, Bootstrap, C# and MsSql.
-- 🤔 I’m looking for help with looking for a job.
+- 😄 I have been working as a Full Stack Developer at Jekirdek Teknoloji since October 2022.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/mehmet-demir-968707215/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@MehmetDemir-blue?style=flat&logo=linkedin"></a>
 - 😄 Pronouns: M
 - ⚡ Fun fact: enthusiastic, open to learning, humor, curious, determined.
